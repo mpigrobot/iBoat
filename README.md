@@ -13,7 +13,7 @@ The code of slave follows the standard Arduino routine, the code of master is pr
 A online video addressing the performance of iBoat is available at: [http://v.youku.com/v_show/id_XMTI2MzQzNDQ0MA==.html](http://v.youku.com/v_show/id_XMTI2MzQzNDQ0MA==.html)
 
 # Acknowledge
-Thanks to Apple support team (China) for authorizing us the free Apple developer ID to saving us 99 dollar, but the application takes ao long time, it is really tough :(
+Thanks to Apple support team (China) for authorizing us the free Apple developer ID to saving us 99 dollar, but the application takes so long time, it is really tough :(
 
 # Contact us 
 For more information, please email me: mclegend@yeah.net, or my supervisor Samuel: sunzuolei@gmail.com. 
